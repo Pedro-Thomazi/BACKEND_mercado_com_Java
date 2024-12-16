@@ -1,0 +1,1 @@
+ALTER TABLE products ADD COLUMN url_image VARCHAR(255);
